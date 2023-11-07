@@ -20,7 +20,7 @@ public class UiBackFlare : ResoniteMod
     public override string Name => "Ui Back Flare";
     public override string Author => "EuphieEuphoria";
     public override string Version => "0.0.1";
-    public override string Link => "resonite.com";
+    public override string Link => "https://github.com/EuphieEuphoria/Ui-Back-Flare";
     public static ModConfiguration? Config;
 
     //default assets
