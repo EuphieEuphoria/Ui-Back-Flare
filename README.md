@@ -1,6 +1,6 @@
 # Ui back Flare
 
-A [ResoniteModLoader](https://github.com/resonite-modding-group/ResoniteModLoader/) mod for [Resonite](https://resonite.com/). Makes the Component Searcher One Click
+A [ResoniteModLoader](https://github.com/resonite-modding-group/ResoniteModLoader/) mod for [Resonite](https://resonite.com/). Adds a customizable back sprite to the Scene Inspector and Flux Node Browser Panels
 
 ## Installation
 1. Install [ResoniteModLoader](https://github.com/resonite-modding-group/ResoniteModLoader/).
